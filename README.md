@@ -1,8 +1,4 @@
-# Python Pandas homework
-
-UofTSTG Data Boot Camp Homework4
-
-## Option 1: Heroes of Pymoli
+# Heroes of Pymoli
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -68,10 +64,3 @@ Your final report should include each of the following:
   - Purchase Count
   - Item Price
   - Total Purchase Value
-
-As final considerations:
-
-- You must use the Pandas Library and the Jupyter Notebook.
-- You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-- You must include a written description of three observable trends based on the data.
-- See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
